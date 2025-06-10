@@ -1,0 +1,1 @@
+const cardapioContainer = document.querySelector('#cardapioContainer')
