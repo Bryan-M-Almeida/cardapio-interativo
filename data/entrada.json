@@ -1,34 +1,46 @@
 {
     "entradas": [
         {
-            "id": "ENT001",
+            "id": "E1",
             "nome": "Pão de Alho com Queijo",
             "descricao": "Pão crocante na brasa recheado com alho e queijo derretido.",
-            "preco": 12.00
+            "preco": 22.00,
+            "imagem": "https://static.itdg.com.br/images/1200-675/bdf5859e802e5edf6c66d25f4927b2bc/shutterstock-1658158945.jpg"
         },
         {
-            "id": "ENT002",
+            "id": "E2",
             "nome": "Linguiça Artesanal Grelhada",
             "descricao": "Linguiça suína artesanal, grelhada lentamente e servida com molho de ervas.",
-            "preco": 18.50
+            "preco": 28.50,
+            "imagem": "https://frigorificoarvoredo.com.br/blog/wp-content/uploads/2023/04/Linguic%CC%A7a-Campeira-1024x683.jpg"
         },
         {
-            "id": "ENT003",
+            "id": "E3",
             "nome": "Queijo Coalho na Brasa",
             "descricao": "Espetinhos de queijo coalho dourados na brasa com melado de cana.",
-            "preco": 14.00
+            "preco": 24.00,
+            "imagem": "https://guiadacozinha.com.br/wp-content/uploads/2019/02/queijocoalhocommel.jpg"
         },
         {
-            "id": "ENT004",
-            "nome": "Bruschetta de Costela",
-            "descricao": "Pão italiano com costela desfiada e cebola caramelizada.",
-            "preco": 16.00
+            "id": "E4",
+            "nome": "Bruschetta de Tomate",
+            "descricao": "Pão italiano com tomate, azeite e manjericão fresco.",
+            "preco": 26.00,
+            "imagem": "https://7diasdesabor.com/wp-content/uploads/2024/01/APERITIVO-3.jpg"
         },
         {
-            "id": "ENT005",
+            "id": "E5",
             "nome": "Espetinho de Frango Apimentado",
             "descricao": "Cubos de frango marinado em páprica e limão, grelhados na hora.",
-            "preco": 15.00
+            "preco": 25.00,
+            "imagem": "https://s2-receitas.glbimg.com/Q9Oq731RLkW5dziTZf4og3rUo3U=/0x0:2560x1695/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2024/v/g/OT9APlRDOoHciWHdsg9Q/espetinho-de-frango-com-cebola-e-pimentao.jpg"
+        },
+        {
+            "id": "E6",
+            "nome": "Bolinho de mandioca",
+            "descricao": "Recheado com queijo coalho, crocante por fora e macio por dentro.",
+            "preco": 24.00,
+            "imagem": "https://i.ytimg.com/vi/8Q275rlYuGI/maxresdefault.jpg"
         }
     ]
 }

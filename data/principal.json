@@ -4,43 +4,50 @@
             "id": "PRIN001",
             "nome": "Picanha Fatiada",
             "descricao": "Picanha nobre assada na brasa, fatiada e servida com farofa e vinagrete.",
-            "preco": 45.00
+            "preco": 45.00,
+            "imagem": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/d042f824158548b50a3f5b53c519004b.jpg"
         },
         {
             "id": "PRIN002",
             "nome": "Costela Bovina no Bafo",
             "descricao": "Costela cozida por 8h no bafo até desmanchar, com molho BBQ artesanal.",
-            "preco": 52.00
+            "preco": 52.00,
+            "imagem": "https://www.estadao.com.br/resizer/v2/GAJVXFRA55A43OAZGEAOGDZX6M.jpeg?quality=80&auth=e8ec261b2826a17579ec70ddf23e334e4d3f0113360e750eb78703e53b52abb3&width=1200&height=1200&focal=1339,2153"
         },
         {
             "id": "PRIN003",
             "nome": "Fraldinha Grelhada",
             "descricao": "Fraldinha suculenta grelhada com sal grosso, acompanhada de arroz carreteiro.",
-            "preco": 40.00
+            "preco": 40.00,
+            "imagem": "https://swiftbr.vteximg.com.br/arquivos/fraldinha-grelhada-sal-parrilla-salsa-criolla.jpg"
         },
         {
             "id": "PRIN004",
             "nome": "Espetão Misto",
             "descricao": "Espetão com carne bovina, frango e linguiça toscana, servido com mandioca.",
-            "preco": 38.00
+            "preco": 38.00,
+            "imagem": "https://cdn.awsli.com.br/2500x2500/2435/2435768/produto/167569852/f6e8916929.jpg"
         },
         {
             "id": "PRIN005",
             "nome": "Bife Ancho com Chimichurri",
             "descricao": "Corte argentino grelhado com molho chimichurri e batatas rústicas.",
-            "preco": 47.00
+            "preco": 47.00,
+            "imagem": "https://painacozinha.com/wp-content/uploads/96.Bife-Ancho-com-Chimichurri.webp"
         },
         {
             "id": "PRIN006",
             "nome": "Cupim Assado",
             "descricao": "Cupim lentamente assado no forno à lenha, macio e suculento.",
-            "preco": 49.00
+            "preco": 49.00,
+            "imagem": "https://www.minhareceita.com.br/app/uploads/2025/02/R0125-MT-Cupim-grelhado-ao-natural-com-legumes-na-brasa-1200x675-1-1.webp"
         },
         {
             "id": "PRIN007",
             "nome": "Cordeiro ao Vinho",
             "descricao": "Paleta de cordeiro marinada no vinho e assada com ervas finas.",
-            "preco": 58.00
+            "preco": 58.00,
+            "imagem": "https://divvino.com.br/blog/wp-content/uploads/2018/11/asacacac.png"
         }
     ]
 }

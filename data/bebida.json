@@ -1,40 +1,46 @@
 {
     "bebidas": [
         {
-            "id": "BEB001",
+            "id": "B1",
             "nome": "Caipirinha Tradicional",
             "descricao": "Cachaça, limão e açúcar, servida com muito gelo.",
-            "preco": 16.00
+            "preco": 16.00,
+            "imagem": "https://i.panelinha.com.br/i1/228-bk-8730-blog-caipirinha-de-limao.webp"
         },
         {
-            "id": "BEB002",
+            "id": "B2",
             "nome": "Cerveja Artesanal 600ml",
-            "descricao": "Cerveja pilsen artesanal local, bem gelada.",
-            "preco": 18.00
+            "descricao": "Cerveja furst artesanal local, bem gelada.",
+            "preco": 18.00,
+            "imagem": "https://cdn.awsli.com.br/800x800/1550/1550750/produto/59081273/7e7a0b16d4.jpg"
         },
         {
-            "id": "BEB003",
+            "id": "B3",
             "nome": "Suco Natural de Laranja",
             "descricao": "Suco fresco, 100% natural, sem adição de açúcar.",
-            "preco": 10.00
+            "preco": 10.00,
+            "imagem": "https://image.tuasaude.com/media/article/go/jh/suco-de-laranja_67324.jpg"
         },
         {
-            "id": "BEB004",
+            "id": "B4",
             "nome": "Água com Gás",
             "descricao": "Garrafa 500ml.",
-            "preco": 5.00
+            "preco": 5.00,
+            "imagem": "https://phantom-elmundo.unidadeditorial.es/f650ecc8d3da0fefba675b7ddbc4bb7a/crop/0x0/2731x2048/resize/1200/f/jpg/assets/multimedia/imagenes/2023/08/03/16910529417869.jpg"
         },
         {
-            "id": "BEB005",
+            "id": "B5",
             "nome": "Refrigerante Lata",
             "descricao": "Coca-Cola, Guaraná ou Fanta.",
-            "preco": 6.00
+            "preco": 6.00,
+            "imagem": "https://institutopostural.com.br/blog/wp-content/uploads/2017/11/latas_de_refrigerantes.jpg"
         },
         {
-            "id": "BEB006",
+            "id": "B6",
             "nome": "Mate Gelado com Limão",
             "descricao": "Chá mate batido com limão e gelo, refrescante.",
-            "preco": 8.00
+            "preco": 8.00,
+            "imagem": "https://papocultura.com.br/wp-content/uploads/2024/11/copos-de-cha-gelado-com-limoes-frescos-na-mesa-de-madeira_318269-1078.jpg"
         }
     ]
 }

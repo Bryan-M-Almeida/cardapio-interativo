@@ -5,38 +5,43 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Na Brasa 🍖</title>
-    <link rel="stylesheet" href="style/style.css">
+
+    <!-- Estilo principal -->
+    <link rel="stylesheet" href="style/inicioReset.css">
+
+    <!-- Fonte elegante para títulos -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+
+    <!-- Favicon -->
     <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/14/14480.png" type="image/x-icon">
 </head>
 
 <body>
-
-    <nav class="nav-fechado">
+    <!-- Navegação lateral -->
+    <nav class="nav-fechado" aria-label="Navegação do cardápio">
         <h1>Cardápio</h1>
-
-        <a href="entradas.html">
-            <li>Entradas</li>
-        </a>
-
-        <a href="pratos.html">
-            <li>Pratos principais</li>
-        </a>
-
-        <a href="sobremesas.html">
-            <li>Sobremesas</li>
-        </a>
-
-        <a href="bebidas.html">
-            <li>Bebidas</li>
-        </a>
+        <ul>
+            <li><a href="entradas.html">Entradas</a></li>
+            <li><a href="principal.html">Pratos principais</a></li>
+            <li><a href="sobremesas.html">Sobremesas</a></li>
+            <li><a href="bebidas.html">Bebidas</a></li>
+        </ul>
     </nav>
 
+    <!-- Seção de boas-vindas -->
     <section id="inicio">
-        <h1>Bem Vindo ao Restaurante Na Brasa <img src="https://cdn-icons-png.flaticon.com/512/2872/2872108.png" alt=""></h1>
-        <button class="cardapio-btn">☰ Cardápio</button>
+        <h1>
+            Bem-vindo ao <strong>Restaurante Na Brasa</strong>
+            <img src="https://cdn-icons-png.flaticon.com/512/9229/9229279.png" alt="Ícone de churrasco">
+        </h1>
+        <p style="font-size: 1.1rem; max-width: 600px; margin-top: 10px;">
+            Sabores intensos, ambiente sofisticado e uma experiência gastronômica inesquecível. Explore nosso cardápio
+            exclusivo.
+        </p>
+        <button class="cardapio-btn">☰ Ver Cardápio</button>
     </section>
 
-
+    <!-- Script de controle do menu -->
     <script src="script/script.js"></script>
 </body>
 

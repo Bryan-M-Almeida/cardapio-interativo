@@ -1,0 +1,62 @@
+/* ========== RESPONSIVO ========== */
+
+@media (max-width: 768px) {
+    nav {
+        width: 180px;
+        padding: 20px 10px;
+    }
+
+    nav h1 {
+        font-size: 1.2rem;
+    }
+
+    nav li {
+        padding: 8px;
+        font-size: 0.95rem;
+    }
+
+    #inicio h1 {
+        font-size: 2rem;
+    }
+
+    .cardapio-btn {
+        padding: 12px 24px;
+        font-size: 1rem;
+    }
+
+    img {
+        width: 6%;
+    }
+}
+
+@media (max-width: 480px) {
+    nav {
+        width: 160px;
+    }
+
+    nav h1 {
+        font-size: 1rem;
+    }
+
+    nav li {
+        padding: 6px;
+        font-size: 0.85rem;
+    }
+
+    #inicio {
+        gap: 20px;
+    }
+
+    #inicio h1 {
+        font-size: 1.6rem;
+    }
+
+    .cardapio-btn {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+    }
+
+    img {
+        width: 8%;
+    }
+}

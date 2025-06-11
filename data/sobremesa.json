@@ -4,37 +4,43 @@
             "id": "SOB001",
             "nome": "Pudim de Leite",
             "descricao": "Tradicional pudim com calda de caramelo.",
-            "preco": 9.00
+            "preco": 9.00,
+            "imagem": "https://receitadaboa.com.br/wp-content/uploads/2024/07/Imagem-ilustrativa-de-pudim.webp"
         },
         {
             "id": "SOB002",
             "nome": "Brownie com Sorvete",
             "descricao": "Brownie quente com bola de sorvete de creme e calda de chocolate.",
-            "preco": 16.00
+            "preco": 16.00,
+            "imagem": "https://www.specialita.com/wp-content/uploads/2022/07/brownie-de-chocoavela-com-sorvete.jpg"
         },
         {
             "id": "SOB003",
             "nome": "Doce de Leite Mineiro",
             "descricao": "Doce de leite cremoso servido com queijo meia cura.",
-            "preco": 11.00
+            "preco": 11.00,
+            "imagem": "https://24127.cdn.simplo7.net/static/24127/sku/kits-kit-2-queijo-canastra-1-kg-cada-e-1-doce-de-leite-vicosa-cremoso-400g--p-1727210584227.jpg"
         },
         {
             "id": "SOB004",
             "nome": "Sorvete de Creme com Calda Quente",
             "descricao": "Bola de sorvete coberta com calda de chocolate quente.",
-            "preco": 14.00
+            "preco": 14.00,
+            "imagem": "https://static.itdg.com.br/images/1200-675/346e283c5ca8eb4e1973d16d0c80d40e/307924-original.jpg"
         },
         {
             "id": "SOB005",
             "nome": "Brigadeiro na Taça",
             "descricao": "Brigadeiro cremoso com granulado crocante.",
-            "preco": 12.00
+            "preco": 12.00,
+            "imagem": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/taca-de-brigadeiro-prestigio-46412.jpg"
         },
         {
             "id": "SOB006",
             "nome": "Churros com Doce de Leite",
-            "descricao": "Mini churros crocantes recheados e polvilhados com açúcar e canela.",
-            "preco": 13.00
+            "descricao": "Churros crocantes recheados e polvilhados com açúcar e canela.",
+            "preco": 13.00,
+            "imagem": "https://cdn.casaeculinaria.com/wp-content/uploads/2023/03/08095458/churros-com-doce-de-leite.jpg"
         }
     ]
 }
