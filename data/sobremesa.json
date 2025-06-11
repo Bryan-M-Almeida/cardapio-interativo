@@ -1,0 +1,40 @@
+{
+    "sobremesas": [
+        {
+            "id": "SOB001",
+            "nome": "Pudim de Leite",
+            "descricao": "Tradicional pudim com calda de caramelo.",
+            "preco": 9.00
+        },
+        {
+            "id": "SOB002",
+            "nome": "Brownie com Sorvete",
+            "descricao": "Brownie quente com bola de sorvete de creme e calda de chocolate.",
+            "preco": 16.00
+        },
+        {
+            "id": "SOB003",
+            "nome": "Doce de Leite Mineiro",
+            "descricao": "Doce de leite cremoso servido com queijo meia cura.",
+            "preco": 11.00
+        },
+        {
+            "id": "SOB004",
+            "nome": "Sorvete de Creme com Calda Quente",
+            "descricao": "Bola de sorvete coberta com calda de chocolate quente.",
+            "preco": 14.00
+        },
+        {
+            "id": "SOB005",
+            "nome": "Brigadeiro na Taça",
+            "descricao": "Brigadeiro cremoso com granulado crocante.",
+            "preco": 12.00
+        },
+        {
+            "id": "SOB006",
+            "nome": "Churros com Doce de Leite",
+            "descricao": "Mini churros crocantes recheados e polvilhados com açúcar e canela.",
+            "preco": 13.00
+        }
+    ]
+}

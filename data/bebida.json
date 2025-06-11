@@ -1,0 +1,40 @@
+{
+    "bebidas": [
+        {
+            "id": "BEB001",
+            "nome": "Caipirinha Tradicional",
+            "descricao": "Cachaça, limão e açúcar, servida com muito gelo.",
+            "preco": 16.00
+        },
+        {
+            "id": "BEB002",
+            "nome": "Cerveja Artesanal 600ml",
+            "descricao": "Cerveja pilsen artesanal local, bem gelada.",
+            "preco": 18.00
+        },
+        {
+            "id": "BEB003",
+            "nome": "Suco Natural de Laranja",
+            "descricao": "Suco fresco, 100% natural, sem adição de açúcar.",
+            "preco": 10.00
+        },
+        {
+            "id": "BEB004",
+            "nome": "Água com Gás",
+            "descricao": "Garrafa 500ml.",
+            "preco": 5.00
+        },
+        {
+            "id": "BEB005",
+            "nome": "Refrigerante Lata",
+            "descricao": "Coca-Cola, Guaraná ou Fanta.",
+            "preco": 6.00
+        },
+        {
+            "id": "BEB006",
+            "nome": "Mate Gelado com Limão",
+            "descricao": "Chá mate batido com limão e gelo, refrescante.",
+            "preco": 8.00
+        }
+    ]
+}

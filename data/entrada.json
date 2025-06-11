@@ -1,0 +1,34 @@
+{
+    "entradas": [
+        {
+            "id": "ENT001",
+            "nome": "Pão de Alho com Queijo",
+            "descricao": "Pão crocante na brasa recheado com alho e queijo derretido.",
+            "preco": 12.00
+        },
+        {
+            "id": "ENT002",
+            "nome": "Linguiça Artesanal Grelhada",
+            "descricao": "Linguiça suína artesanal, grelhada lentamente e servida com molho de ervas.",
+            "preco": 18.50
+        },
+        {
+            "id": "ENT003",
+            "nome": "Queijo Coalho na Brasa",
+            "descricao": "Espetinhos de queijo coalho dourados na brasa com melado de cana.",
+            "preco": 14.00
+        },
+        {
+            "id": "ENT004",
+            "nome": "Bruschetta de Costela",
+            "descricao": "Pão italiano com costela desfiada e cebola caramelizada.",
+            "preco": 16.00
+        },
+        {
+            "id": "ENT005",
+            "nome": "Espetinho de Frango Apimentado",
+            "descricao": "Cubos de frango marinado em páprica e limão, grelhados na hora.",
+            "preco": 15.00
+        }
+    ]
+}

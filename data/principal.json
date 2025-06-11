@@ -1,0 +1,46 @@
+{
+    "principal": [
+        {
+            "id": "PRIN001",
+            "nome": "Picanha Fatiada",
+            "descricao": "Picanha nobre assada na brasa, fatiada e servida com farofa e vinagrete.",
+            "preco": 45.00
+        },
+        {
+            "id": "PRIN002",
+            "nome": "Costela Bovina no Bafo",
+            "descricao": "Costela cozida por 8h no bafo até desmanchar, com molho BBQ artesanal.",
+            "preco": 52.00
+        },
+        {
+            "id": "PRIN003",
+            "nome": "Fraldinha Grelhada",
+            "descricao": "Fraldinha suculenta grelhada com sal grosso, acompanhada de arroz carreteiro.",
+            "preco": 40.00
+        },
+        {
+            "id": "PRIN004",
+            "nome": "Espetão Misto",
+            "descricao": "Espetão com carne bovina, frango e linguiça toscana, servido com mandioca.",
+            "preco": 38.00
+        },
+        {
+            "id": "PRIN005",
+            "nome": "Bife Ancho com Chimichurri",
+            "descricao": "Corte argentino grelhado com molho chimichurri e batatas rústicas.",
+            "preco": 47.00
+        },
+        {
+            "id": "PRIN006",
+            "nome": "Cupim Assado",
+            "descricao": "Cupim lentamente assado no forno à lenha, macio e suculento.",
+            "preco": 49.00
+        },
+        {
+            "id": "PRIN007",
+            "nome": "Cordeiro ao Vinho",
+            "descricao": "Paleta de cordeiro marinada no vinho e assada com ervas finas.",
+            "preco": 58.00
+        }
+    ]
+}
