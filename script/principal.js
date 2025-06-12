@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const container = document.querySelector(".menu-container");
 
-    fetch("../data/principal.json")
+    fetch("data/principal.json")
         .then(res => {
             if (!res.ok) throw new Error("Erro ao carregar JSON");
             return res.json();
